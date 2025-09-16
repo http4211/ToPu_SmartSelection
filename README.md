@@ -1,4 +1,4 @@
-# ToPu_SmartSelection　NEW　v1.1
+# ToPu_SmartSelection　【NEW】v1.1
 
 セレクションセットの作成、階層的なローカル表示
 
@@ -14,7 +14,7 @@ https://captainhansode.gumroad.com/l/wqaMJ?layout=profile&recommended_by=library
 
 ---
 
-## [NEW　v1.1]
+## [NEW　v1.1]　アップデート内容
 
 メッシュ選択セットの作成に対応いたしました。
 
