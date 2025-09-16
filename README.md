@@ -1,4 +1,4 @@
-# ToPu_SmartSelection
+# ToPu_SmartSelection　NEW　v1.1
 
 セレクションセットの作成、階層的なローカル表示
 
@@ -12,4 +12,6 @@ https://captainhansode.gumroad.com/l/wqaMJ?layout=profile&recommended_by=library
 
 使用したい場合はデフォルトではキー設定がかぶっているので、キーマップにて該当のキーをオフにするか、アドオンプリファレンスにてショートカットキーを変更してください。
 
-需要があるようでしたら、将来的にはメッシュでの選択セットを実装するかもしれません・・・
+メッシュ選択に対応いたしました。
+
+undoした時に一部が想定した動きにならない事があるため、時間があったら修正したいと思います。
