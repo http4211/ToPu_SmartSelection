@@ -16,12 +16,6 @@ https://github.com/user-attachments/assets/294b9ae9-ac4e-494b-abb1-5968cd1ac58b
 
 
 ---
-
-## Screenshots
-
-UI 説明用の画像は `docs/images/` に配置する想定です。  
-ファイル名を変更する場合は、下記のパスも合わせて変更してください。
-
 <p align="center">
 <img width="200" height="26" alt="image" src="https://github.com/user-attachments/assets/f629482f-910a-4181-a9e7-fc95752a054f" />
 </p>
