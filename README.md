@@ -72,8 +72,9 @@ UI 説明用の画像は `docs/images/` に配置する想定です。
 ---
 
 ## UI Overview
-
-![UI Overview](docs/images/ui-overview.png)
+<p align="center">
+<img width="189" height="26" alt="image" src="https://github.com/user-attachments/assets/bbc2109d-8bb9-49b2-a838-fe23872e3443" />
+</p>
 
 ### Object / Collection / Mesh Mode
 
