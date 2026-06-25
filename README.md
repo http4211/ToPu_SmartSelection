@@ -10,7 +10,11 @@
 複雑なモデル、リグ、背景セット、複数オブジェクト編集などで、  
 「必要なものだけ選ぶ」「必要な範囲だけ表示する」「階層的に戻る」操作を軽くすることを目的にしています。
 
-https://github.com/user-attachments/assets/3ce0881c-ca14-42c5-a5b4-fd013e3f968f
+
+https://github.com/user-attachments/assets/294b9ae9-ac4e-494b-abb1-5968cd1ac58b
+
+
+
 ---
 
 ## Screenshots
@@ -18,18 +22,18 @@ https://github.com/user-attachments/assets/3ce0881c-ca14-42c5-a5b4-fd013e3f968f
 UI 説明用の画像は `docs/images/` に配置する想定です。  
 ファイル名を変更する場合は、下記のパスも合わせて変更してください。
 
-
+<p align="center">
 <img width="200" height="26" alt="image" src="https://github.com/user-attachments/assets/f629482f-910a-4181-a9e7-fc95752a054f" />
-
-
+</p>
+<p align="center">
 <img width="375" height="359" alt="image" src="https://github.com/user-attachments/assets/2668cafd-6bb6-4002-82b9-992a369561f0" />
-
-
+</p>
+<p align="center">
 <img width="193" height="24" alt="image" src="https://github.com/user-attachments/assets/5ade42ac-3687-492f-9d7f-e274bef4bc11" />
-
-
+</p>
+<p align="center">
 <img width="598" height="453" alt="image" src="https://github.com/user-attachments/assets/bb090854-df2d-45ec-bda6-635417ad4ca4" />
-
+</p>
 
 ---
 
